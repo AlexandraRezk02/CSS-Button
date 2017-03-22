@@ -1,0 +1,17 @@
+div {
+    height: 250px;
+    width: 250px;
+    border: 4px solid black;
+    background-color: darkred;
+    box-shadow: 5px 5px 5px #888;
+}
+
+div a{
+    text-decoration: none;
+    color: black;
+}
+
+body{
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 25px;
+}
